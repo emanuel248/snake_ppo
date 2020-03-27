@@ -1,0 +1,5 @@
+numpy
+pytorch
+matplotlib
+gym
+git+https://github.com/grantsrb/Gym-Snake.git
