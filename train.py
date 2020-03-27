@@ -57,7 +57,7 @@ def test_env(env, model, device, deterministic=False):
         next_state, reward, done, _ = env.step([action])
         state = next_state
         total_reward += reward
-        env.render()
+#        env.render()
     return total_reward
 
 # PPO functions
